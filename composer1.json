@@ -1,0 +1,14 @@
+{
+    "name": "custom/defaults",
+    "type": "tastyigniter-extension",
+    "description": "Sets default values for reservations in TastyIgniter.",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your-email@example.com"
+        }
+    ],
+    "require": {
+        "tastyigniter/tastyigniter": ">=3.0"
+    }
+}
